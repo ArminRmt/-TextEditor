@@ -4,7 +4,9 @@
  A simple Text Editor like notepad, built with java swing.
 
  To try out this sample app, you need to use editor that runs java like vs. code or intellij
- Also install last version of from [here] (https://www.java.com/en/download/).
+ Also install last version of from
+ [here](https://www.java.com/en/download/)
+
 
  You can clone this repository or import the project from vscode.
  
